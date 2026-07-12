@@ -8,7 +8,7 @@ description: >
   your grandmother made.
 ---
 
-# Steamed Egg with Minced Pork 融化肉餅蒸水蛋
+# Steamed Egg with Minced Pork 肉餅蒸水蛋
 
 *A beloved Hong Kong home dish. Simple, cheap, deeply satisfying.*
 
