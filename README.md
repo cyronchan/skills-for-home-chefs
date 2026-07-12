@@ -10,7 +10,7 @@ This is not a library of rigid recipes. It is a collection of practical cooking 
 
 > **Anyone can contribute a recipe.** If you cook it at home and love it, it belongs here.
 > No coding experience needed — just use the [recipe template](templates/RECIPE-SKILL-TEMPLATE.md) and open a Pull Request.
-> 👉 [How to contribute a recipe →](CONTRIBUTING.md)
+> 🤖 **New:** [Use AI to convert your recipe in 1 minute →](guides/convert-recipe-with-ai.md)
 
 Every recipe is written as a skill: method with sensory cues, a *Taste like a chef* section, variations, and storage notes.
 
@@ -22,7 +22,7 @@ Every recipe is written as a skill: method with sensory cues, a *Taste like a ch
 | **South Asian** | [Dal Tadka](skills/recipes/south-asian/dal-tadka/SKILL.md) |
 | **Southeast Asian** | [Nasi Goreng](skills/recipes/southeast-asian/nasi-goreng/SKILL.md) |
 | **Western** | [Crispy Roast Chicken Thighs](skills/recipes/western/roast-chicken-thighs/SKILL.md) · [Simple Vinaigrette](skills/recipes/western/simple-vinaigrette/SKILL.md) |
-| **Your cuisine** | *[Add your recipe →](CONTRIBUTING.md)* |
+| **Your cuisine** | *[Add your recipe →](guides/convert-recipe-with-ai.md)* |
 
 📚 [Browse all recipes by cuisine →](skills/recipes/README.md)
 
@@ -66,7 +66,13 @@ These skills teach you how to think and decide in the kitchen — so you can coo
 
 This project grows through contributions. If you cook a dish at home that you love, add it here.
 
-**It takes about 15 minutes and no coding experience is needed.**
+### 🤖 The easy way — use AI to convert your recipe
+
+**You don't need to fill in the template by hand.** Copy a prompt, paste your recipe (in any format — rough notes, from memory, a family dish), and AI will produce a complete, formatted skill in seconds. Then just review, edit, and submit.
+
+👉 **[How to convert your recipe with AI →](guides/convert-recipe-with-ai.md)**
+
+### The manual way
 
 1. [Fork this repo](https://github.com/cyronchan/skills-for-home-chefs/fork)
 2. Copy [`templates/RECIPE-SKILL-TEMPLATE.md`](templates/RECIPE-SKILL-TEMPLATE.md) into `skills/recipes/[cuisine]/[dish-name]/SKILL.md`
